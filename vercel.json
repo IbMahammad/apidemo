@@ -1,0 +1,7 @@
+{
+    "rewrites": [
+        {"source": "/(.*)", "destintion":"api/index"}
+
+    ]
+
+}
